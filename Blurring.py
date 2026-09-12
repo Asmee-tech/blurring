@@ -28,7 +28,7 @@ swp=cv2.imread("opencv-assets-main/salt and pepper grains.jpeg")
 # cv2.imshow("window3",add2)
 # cv2.waitKey(0)
 
-# # comman blur
+# # common blur
 # blur=cv2.GaussianBlur(bilateral,(31,31),sigmaX=3,dst=0)
 # cv2.imshow("window4",blur)
 # cv2.waitKey(0)
